@@ -586,5 +586,12 @@ output=Pita_V2.apk</textarea>
             }
         }
     </script>
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('/My/sw.js');
+  });
+}
+</script>
 </body>
 </html>
