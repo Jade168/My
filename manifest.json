@@ -4,11 +4,11 @@
   "display": "standalone",
   "name": "Myapp",
   "orientation": "any",
-  "scope": "/My/",
+  "scope": "/Myapp/",
   "short_name": "Myapp",
-  "start_url": "/My/",
+  "start_url": "/Myapp/",
   "theme_color": "#802020",
-  "description": "My progressive Web Application",
+  "description": "My app progressive Web Application",
   "icons": [
     {
       "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
