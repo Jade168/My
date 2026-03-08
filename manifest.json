@@ -11,8 +11,13 @@
   "description": "My progressive Web Application",
   "icons": [
     {
-      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAElEQVR4nO2deXxU133H8e+9995773333nv...",
+      "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
       "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
