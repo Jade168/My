@@ -11,12 +11,12 @@
   "description": "My progressive Web Application",
   "icons": [
     {
-      "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+      "src": "你原来完整嘅base64字符串，data:image/png;base64,开头嘅整段，唔好截断",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+      "src": "你原来完整嘅base64字符串，data:image/png;base64,开头嘅整段，唔好截断",
       "sizes": "512x512",
       "type": "image/png"
     }
