@@ -5,7 +5,7 @@
   "name": "My",
   "orientation": "any",
   "scope": "/",
-  "short_name": "MyApp",
+  "short_name": "My",
   "start_url": "/",
   "theme_color": "#802020",
   "description": "My progressive Web Application"
